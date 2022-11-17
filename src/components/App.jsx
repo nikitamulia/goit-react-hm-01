@@ -4,7 +4,7 @@ import user from '../utils/user.json'
 import {Statistics} from './Statistics/Statistics'
 import data from '../utils/data.json'
 
-import {FriendList} from './Friends/Friends.jsx'
+import {FriendList} from './Friends/FriendList.jsx'
 import friends from '../utils/friends.json'
 
 import {TransactionHistory} from './Transactions/Transactions.jsx'
