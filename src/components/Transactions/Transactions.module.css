@@ -1,0 +1,18 @@
+.transactionHistory{
+    min-width: 400px;
+    margin-bottom: 30px;
+}
+thead{
+   background-color:aqua;
+    font-size: medium;
+    color: white;
+}
+th, td {
+    padding: 5px 15px;
+    font-size: medium;
+}
+td{
+    text-align: center;
+   
+}    
+
