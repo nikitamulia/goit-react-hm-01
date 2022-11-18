@@ -24,3 +24,19 @@
     gap: 10px;
     width: -webkit-fill-available;
 }
+.id-1{
+    background-color: rgb(205, 50, 50);
+}
+.id-2{
+    background-color: pink;
+}
+.id-3{
+    background-color: rgb(192, 255, 209);
+}
+.id-4{
+    background-color: rgb(204, 192, 255);
+}
+.id-5{
+    background-color: rgb(245, 255, 192);
+}
+
